@@ -1,0 +1,27 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Developer: John Parrado
+  Site: johnparrado.blogspot.com/
+  Twitter: @johnparradog
+  Location: Colombia, Meta, Villavicencio
+
+/* THANKS */
+  Names (& URL):
+
+/* SITE */
+  Standards: HTML5, CSS3, humans.txt
+  Components: Modernizr, jQuery, PHP, Mysql
+  Software: Sublime Text 2, GitHub
+
+
+
+   ____    _         _                                                 _                          
+  / __ \  (_)  ___  | |__   _ __   _ __    __ _  _ __  _ __  __ _   __| |  ___    __ _            
+ / / _` | | | / _ \ | '_ \ | '_ \ | '_ \  / _` || '__|| '__|/ _` | / _` | / _ \  / _` |           
+| | (_| | | || (_) || | | || | | || |_) || (_| || |   | |  | (_| || (_| || (_) || (_| |           
+ \ \__,_|_/ | \___/ |_| |_||_| |_|| .__/  \__,_||_|   |_|   \__,_| \__,_| \___/  \__, |           
+  \____/|__/                      |_|                                            |___/            
+
